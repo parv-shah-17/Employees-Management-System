@@ -18,6 +18,7 @@ class MainPanel:
     
     if sign_up_button:
       st.switch_page(page='pages/sign_up_page.py')
+      st.title("Hello world")
   
   
   
